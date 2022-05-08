@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.allitems {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.allitems H1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.allitems button {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+    width: 148px;
+    height: 60px;
+    border-radius: 12.5px;
+}
+
+.allitems button:hover {
+    transition-duration: 2s;
+    text-transform: lowercase;
+    color: lightgray;
+    font-size: 35px;
+    border-radius: 0;
+}
