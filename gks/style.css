@@ -1,0 +1,7 @@
+#Outer {
+    border: 1px solid black;
+    padding-top: 40px;
+    height: 140px;
+    background-color: blue;
+    display: none;
+}
