@@ -1,0 +1,54 @@
+.all {
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    border: 3px solid black;
+    margin-top: 100px;
+    margin-left: 75px;
+}
+
+.all input {
+    width: 392px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.all button {
+    align-self: center;
+}
+
+#calculate {
+    width: 85px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 2px solid wheat;
+    margin-left: 135px;
+    margin-top: 40px;
+    border-radius: 25px;
+}
+
+#result1 {
+    background-color: black;
+    border: 2px solid wheat;
+    color: white;
+}
+
+#result2 {
+    background-color: black;
+    border: 2px solid wheat;
+    color: white;
+}
+
+#result3 {
+    background-color: black;
+    border: 2px solid wheat;
+    color: white;
+}
+
+#result4 {
+    background-color: black;
+    border: 2px solid wheat;
+    color: white;
+}
