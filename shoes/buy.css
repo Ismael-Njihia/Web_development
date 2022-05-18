@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+.header {
+    height: 40px;
+    background-color: green;
+}
+
+.items {
+    margin-top: 40px;
+    display: flex;
+}
+
+.buy-banner {
+    margin-left: 100px;
+}
+
+.buy-banner button {
+    background-color: green;
+    border-radius: 25px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    margin-left: 10px;
+}
+
+.buy-banner button:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    box-shadow: 10px 5px 5px white;
+}
+
+.buy-banner p {
+    color: white;
+    font-size: medium;
+}
+
+.buy-banner h1 {
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
